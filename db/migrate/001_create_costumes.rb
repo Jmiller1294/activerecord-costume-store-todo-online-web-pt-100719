@@ -9,7 +9,6 @@ class CreateCostumes < ActiveRecord::Migration[4.2]
       t.timestamps
     end
   end
-  binding.pry
 end
 
 
